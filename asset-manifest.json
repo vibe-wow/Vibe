@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Vibe/static/css/main.76af67b0.css",
-    "main.js": "/Vibe/static/js/main.8c90b7d4.js",
-    "static/js/453.f66b2c44.chunk.js": "/Vibe/static/js/453.f66b2c44.chunk.js",
-    "static/media/fa-solid-900.ttf": "/Vibe/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
-    "static/media/fa-brands-400.ttf": "/Vibe/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
-    "static/media/fa-solid-900.woff2": "/Vibe/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
-    "static/media/hero_placeholder.webp": "/Vibe/static/media/hero_placeholder.9e4e2c673ce286313e26.webp",
-    "static/media/fa-brands-400.woff2": "/Vibe/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
-    "static/media/fa-regular-400.ttf": "/Vibe/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
-    "static/media/Vibe_Logo_RE.webp": "/Vibe/static/media/Vibe_Logo_RE.da3b728e0062a4b5271d.webp",
-    "static/media/fa-regular-400.woff2": "/Vibe/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
-    "static/media/fa-v4compatibility.ttf": "/Vibe/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
-    "static/media/fa-v4compatibility.woff2": "/Vibe/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
-    "index.html": "/Vibe/index.html",
-    "main.76af67b0.css.map": "/Vibe/static/css/main.76af67b0.css.map",
-    "main.8c90b7d4.js.map": "/Vibe/static/js/main.8c90b7d4.js.map",
-    "453.f66b2c44.chunk.js.map": "/Vibe/static/js/453.f66b2c44.chunk.js.map"
+    "main.css": "/vibe-wow.github.io/static/css/main.dff0bd2f.css",
+    "main.js": "/vibe-wow.github.io/static/js/main.17cfbe14.js",
+    "static/js/453.f66b2c44.chunk.js": "/vibe-wow.github.io/static/js/453.f66b2c44.chunk.js",
+    "static/media/fa-solid-900.ttf": "/vibe-wow.github.io/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/vibe-wow.github.io/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/vibe-wow.github.io/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/hero_placeholder.webp": "/vibe-wow.github.io/static/media/hero_placeholder.9e4e2c673ce286313e26.webp",
+    "static/media/fa-brands-400.woff2": "/vibe-wow.github.io/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fa-regular-400.ttf": "/vibe-wow.github.io/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/Vibe_Logo_RE.webp": "/vibe-wow.github.io/static/media/Vibe_Logo_RE.da3b728e0062a4b5271d.webp",
+    "static/media/fa-regular-400.woff2": "/vibe-wow.github.io/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/vibe-wow.github.io/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/vibe-wow.github.io/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/vibe-wow.github.io/index.html",
+    "main.dff0bd2f.css.map": "/vibe-wow.github.io/static/css/main.dff0bd2f.css.map",
+    "main.17cfbe14.js.map": "/vibe-wow.github.io/static/js/main.17cfbe14.js.map",
+    "453.f66b2c44.chunk.js.map": "/vibe-wow.github.io/static/js/453.f66b2c44.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.76af67b0.css",
-    "static/js/main.8c90b7d4.js"
+    "static/css/main.dff0bd2f.css",
+    "static/js/main.17cfbe14.js"
   ]
 }
