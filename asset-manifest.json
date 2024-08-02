@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.cdaeb5a3.css",
-    "main.js": "/static/js/main.6340c769.js",
+    "main.css": "/static/css/main.8c3d7f56.css",
+    "main.js": "/static/js/main.620be651.js",
     "static/js/453.f66b2c44.chunk.js": "/static/js/453.f66b2c44.chunk.js",
+    "static/media/hero_placeholder_2.webp": "/static/media/hero_placeholder_2.2fbe7242d44b4d8d2470.webp",
     "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
     "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
     "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
-    "static/media/hero_placeholder.webp": "/static/media/hero_placeholder.9e4e2c673ce286313e26.webp",
     "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/hero_placeholder_small.webp": "/static/media/hero_placeholder_small.86a7fb6dd94ce345410a.webp",
     "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
     "static/media/Vibe_Logo_RE.webp": "/static/media/Vibe_Logo_RE.da3b728e0062a4b5271d.webp",
     "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
     "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
     "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/index.html",
-    "main.cdaeb5a3.css.map": "/static/css/main.cdaeb5a3.css.map",
-    "main.6340c769.js.map": "/static/js/main.6340c769.js.map",
+    "main.8c3d7f56.css.map": "/static/css/main.8c3d7f56.css.map",
+    "main.620be651.js.map": "/static/js/main.620be651.js.map",
     "453.f66b2c44.chunk.js.map": "/static/js/453.f66b2c44.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cdaeb5a3.css",
-    "static/js/main.6340c769.js"
+    "static/css/main.8c3d7f56.css",
+    "static/js/main.620be651.js"
   ]
 }
