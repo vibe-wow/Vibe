@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.df7b31f2.css",
-    "main.js": "/static/js/main.50c77d85.js",
+    "main.css": "/static/css/main.22d89d3e.css",
+    "main.js": "/static/js/main.cf4b34cd.js",
     "static/js/453.f66b2c44.chunk.js": "/static/js/453.f66b2c44.chunk.js",
     "static/media/raid_team.webp": "/static/media/raid_team.11cb303a31d7c067c869.webp",
     "static/media/hero_placeholder_2.webp": "/static/media/hero_placeholder_2.2fbe7242d44b4d8d2470.webp",
@@ -9,19 +9,18 @@
     "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
     "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
     "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
-    "static/media/hero_placeholder_small.webp": "/static/media/hero_placeholder_small.86a7fb6dd94ce345410a.webp",
     "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
     "static/media/Vibe_Logo_RE.webp": "/static/media/Vibe_Logo_RE.da3b728e0062a4b5271d.webp",
     "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
     "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
     "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/index.html",
-    "main.df7b31f2.css.map": "/static/css/main.df7b31f2.css.map",
-    "main.50c77d85.js.map": "/static/js/main.50c77d85.js.map",
+    "main.22d89d3e.css.map": "/static/css/main.22d89d3e.css.map",
+    "main.cf4b34cd.js.map": "/static/js/main.cf4b34cd.js.map",
     "453.f66b2c44.chunk.js.map": "/static/js/453.f66b2c44.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.df7b31f2.css",
-    "static/js/main.50c77d85.js"
+    "static/css/main.22d89d3e.css",
+    "static/js/main.cf4b34cd.js"
   ]
 }
